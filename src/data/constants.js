@@ -149,27 +149,7 @@ export const experiences = [
       "JavaScript",
       "Netlify",
     ],
-  },
-  {
-    id: 1,
-    img: "https://media.licdn.com/dms/image/D4E0BAQH-lioYmP95dA/company-logo_200_200/0/1713896326318?e=2147483647&v=beta&t=gAzgsQ2jhSqyqztTThPMVyvvZ6C90zC6YFNSukorEdU",
-    role: "Web Development Intern",
-    company: "Encryptix",
-    date: "June 2022 - July 2024",
-    desc: "Built an employee management  web app used React and deployed on Netlify. I was the top performer in the program.",
-    skills: [
-      "ReactJS",
-      "NodeJs",
-      "HTML",
-      "CSS",
-      "JavaScript",
-      "MongoDB",
-      "Netlify",
-    ],
-  },
-  
-  
-  
+  },  
 ];
 
 export const education = [

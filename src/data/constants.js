@@ -135,7 +135,7 @@ export const skills = [
 
 export const experiences = [
   {
-    id: 2,
+    id: 0,
     img: "https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FNTPC_Limited&psig=AOvVaw3HOwrPMDvvOYNOPkAKX34t&ust=1757920228740000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCJCgy67Z148DFQAAAAAdAAAAABAE",
     role: "Web Development Intern",
     company: "NTPC Limited",

@@ -136,10 +136,10 @@ export const skills = [
 export const experiences = [
   {
     id: 0,
-    img: "https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FNTPC_Limited&psig=AOvVaw3HOwrPMDvvOYNOPkAKX34t&ust=1757920228740000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCJCgy67Z148DFQAAAAAdAAAAABAE",
-    role: "Web Development Intern",
+    img: "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.facebook.com%2Fntpc1%2F%3Flocale%3Dmk_MK&psig=AOvVaw2u_00-lcDPqZgmV1gItKP2&ust=1757920509286000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCNjg5rTa148DFQAAAAAdAAAAABAE",
+    role: "Summer Intern",
     company: "NTPC Limited",
-    date: "Jun 2024 - Jul 2024",
+    date: "Jun 2025 - Jul 2025",
     desc: "Developed and maintained responsive web modules to support internal operations, improving usability and accessibility for employees.",
     skills: [
       "NextJS",

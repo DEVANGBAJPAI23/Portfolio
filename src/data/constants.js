@@ -135,7 +135,24 @@ export const skills = [
 
 export const experiences = [
   {
-    id: 0,
+    id: 2,
+    img: "https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FNTPC_Limited&psig=AOvVaw3HOwrPMDvvOYNOPkAKX34t&ust=1757920228740000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCJCgy67Z148DFQAAAAAdAAAAABAE",
+    role: "Web Development Intern",
+    company: "NTPC Limited",
+    date: "Jun 2024 - Jul 2024",
+    desc: "Developed and maintained responsive web modules to support internal operations, improving usability and accessibility for employees.",
+    skills: [
+      "NextJS",
+      "ReactJS",
+      "NodeJs",
+      "Tailwind CSS",
+      "Convex",
+      "Shadcn UI",
+      "Vercel",
+    ],
+  },
+  {
+    id: 1,
     img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHovHGLxxjQsv-lcfP7LQk5D9X_UEPMBMT6fWZ_Mau6cszyO7YfnoQlKA-oY19KGpvbbk&usqp=CAU",
     role: "Web Developer Intern(USIP)",
     company: "Delhi Technological University",
@@ -149,7 +166,8 @@ export const experiences = [
       "JavaScript",
       "Netlify",
     ],
-  },  
+  }, 
+
 ];
 
 export const education = [
